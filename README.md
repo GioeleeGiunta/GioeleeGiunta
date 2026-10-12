@@ -49,6 +49,8 @@ A custom 32-bit RISC-V System-on-Chip (SoC) implemented on the Gowin Tang Nano 2
 - **Parametric Peripherals**: 15-bit PWM (audio tone generation), 4-bit PWM (LED dimming), configurable full-duplex UART, and 1-bit GPIO.
 - **Validated Stack**: Fully integrated C firmware (built with `riscv64-unknown-elf-gcc`), baked into the Gowin bitstream at compile time, and verified via UART debug at 115200 baud.
 
+  ![SoC Architecture](./soc_architecture.png)
+
 
 ```text
 G. Giunta,
