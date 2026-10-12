@@ -1,4 +1,4 @@
-  <p align="center"><h1>🌿 Code built by hand, the old-fashioned way. I miss the days when logic came from developers, not prompts. Go vegan. </h1>
+  <p align="center"><h1>🌿 Code built by hand, the old-fashioned way.</h1>
 </p>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFydDY2OXp4eTlid3ZmdDFiemV1Mnc5ZGlseXBobGw3bjQyNmV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXBL0YtCVuC6liQBeF/giphy.gif" width="400" alt="Stay Amish"/>
