@@ -22,14 +22,14 @@
 
 ## Featured Projects
 
-### [exposingepstein.com](https://exposingepstein.com) · Epstein Investigation Archive *(proprietary, not on GitHub)*
+### [Large-Scale OSINT & Document Mining Platform](https://exposingepstein.com) · *(Proprietary, not on GitHub)*
 
-A platform I built from scratch to make the DOJ Epstein files actually navigable. No company, no budget, no team. Just me and [AquaBomber](https://www.reddit.com/user/AquaBomber), who handled the community while I architected the end-to-end data mining pipelines, implemented a Thompson Sampling reinforcement learning agent to dynamically optimize content ranking and navigation fluidity, and engineered a distributed NLP classification system—leveraging MinHash for near-duplicate detection, spaCy for Named Entity Recognition (NER), and fine-tuned RoBERTa models-to ingest, cluster, and index over 1.39 million heterogeneous files.
+A platform I built from scratch to make the Epstein files actually navigable and enable independent investigations. I collaborated with [AquaBomber](https://www.reddit.com/user/AquaBomber), who handled the community while I architected the end-to-end data mining pipelines, implemented a Thompson Sampling reinforcement learning agent to dynamically optimize content ranking and navigation fluidity, and engineered a distributed NLP classification system—leveraging MinHash for near-duplicate detection, spaCy for Named Entity Recognition (NER), and fine-tuned RoBERTa models to ingest, cluster, and index over 1.39 million heterogeneous files.
 
-The platform now serves 100k+ daily users and holds:
+The platform now serves 2k+ daily users and holds:
 
 - Over 307,000 photos from the DOJ seizure
-- Over 2,000 videos, many with transcriptions and audio analysis
+- Over 3,000 videos, many with transcriptions and audio analysis
 - 1,399,086 of court documents, emails, and flight records, tagged and cross-referenced
 - Full-text search across hundreds of thousands of PDFs
 - User accounts, community posts, comments, voting, and collaborative investigations
@@ -38,7 +38,7 @@ The codebase is proprietary. The database is open and downloadable.
 
 ---
 
-# Tang-Nano-20K-AUSP-SoC · GowinPicoSoC FPGA System
+### [Tang-Nano-20K-AUSP-SoC](https://github.com/GioeleeGiunta/Tang-Nano-20K-AUSP-SoC) · GowinPicoSoC FPGA System
 
 A custom 32-bit RISC-V System-on-Chip (SoC) implemented on the Gowin Tang Nano 20K FPGA. Designed as the hardware backbone for the Acoustic Underground Sensor Protocol (AUSP), it features a PicoRV32 core, a custom Wishbone interconnect, and a high-speed SDRAM controller with DMA-driven SPI-to-SDRAM+FFT pipelines.
 
