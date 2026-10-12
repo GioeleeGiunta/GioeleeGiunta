@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFydDY2OXp4eTlid3ZmdDFiemV1Mnc5ZGlseXBobGw3bjQyNmV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXBL0YtCVuC6liQBeF/giphy.gif" width="400" alt="Stay Amish"/>
 </p>
 
-<h1 align="center">Gioele Giunta / G103L3</h1>
+<h1 align="center">Gioele Giunta</h1>
 
 <p align="center">
   <b>Computer Engineering · Embedded Systems · Full Stack Development</b><br/>
