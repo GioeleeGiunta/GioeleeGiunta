@@ -22,7 +22,7 @@
 
 ## Featured Projects
 
-### [Large-Scale OSINT & Document Mining Platform](https://exposingepstein.com) · *(Proprietary, not on GitHub)*
+### [Large-Scale OSINT & Document Mining Platform](https://exposingepstein.com?src=github) · *(Proprietary, not on GitHub)*
 
 A platform I built from scratch to make the Epstein files actually navigable and enable independent investigations. I collaborated with [AquaBomber](https://www.reddit.com/user/AquaBomber), who handled the community while I architected the end-to-end data mining pipelines, implemented a Thompson Sampling reinforcement learning agent to dynamically optimize content ranking and navigation fluidity, and engineered a distributed NLP classification system—leveraging MinHash for near-duplicate detection, spaCy for Named Entity Recognition (NER), and fine-tuned RoBERTa models to ingest, cluster, and index over 1.39 million heterogeneous files.
 
